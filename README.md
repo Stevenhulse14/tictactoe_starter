@@ -1,4 +1,4 @@
-````md
+
 # Instructions for Completing and Using the Provided Tic-Tac-Toe Code
 
 Below are **step-by-step instructions** and explanations on how to understand, integrate, and use the Tic-Tac-Toe JavaScript code you provided. This guide focuses purely on the **JavaScript** aspect, without discussing any specific HTML or CSS details.
@@ -105,7 +105,7 @@ Open the `.js` file containing the Tic-Tac-Toe logic (for reference, the code yo
     }
   }
   ```
-````
+
 
 - It extracts the three indices from the `winningConditions` array.
 - Checks if `gameState[posA]`, `gameState[posB]`, and `gameState[posC]` are non-empty and identical.
